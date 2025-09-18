@@ -14,11 +14,11 @@ export default function Navbar(){
 
           {/* <!-- Navigation --> */}
           <nav className="hidden md:flex items-center space-x-8">
-            <link
+            <Link
               href="/"
               className="text-gray-700 hover:text-blue-600 transition-colors duration-300"
-              >หน้าแรก</link
-            >
+              >หน้าแรก</Link>
+            
             <Link
             href = "#"
             className="text-gray-700 hover:text-blue-600 transition-colors duration-300">
